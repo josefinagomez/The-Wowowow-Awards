@@ -1,0 +1,41 @@
+body{
+    text-align:center;
+}
+.flower{
+    font-family: 'Indie Flower', cursive;
+}
+.font{
+    font-family: 'Anton', sans-serif;
+}
+img{
+    height:260px;
+    width:206px;
+}    
+.word{
+    font-family: 'Shadows Into Light', cursive;
+}
+.big{
+    font-size:20px;
+}
+body{
+    background-color:lightblue;
+}
+.dancing{
+    font-family: 'Dancing Script', cursive;
+}
+ul{
+    margin-left:250px;
+    margin-right:250px;
+}
+.Movie{
+    color:blue;
+}
+.Artist{
+    color:red;
+}
+.Show{
+    color:purple;
+}
+.actor{
+    color:green;
+}
